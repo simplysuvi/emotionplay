@@ -1,7 +1,7 @@
 <template>
   <v-app id="inspire" dark>
     <v-toolbar app fixed clipped-left>
-      <v-toolbar-title><strong style="text-align: center;">WHAT'S YOUR MOOD LIKE?</strong></v-toolbar-title>
+      <v-toolbar-title>WHAT'S YOUR MOOD LIKE?</v-toolbar-title>
     </v-toolbar>
     <v-content>
       <v-container fluid fill-height>
@@ -194,5 +194,9 @@ footer {
 .footer-text
 {
   text-align: center;
+}
+.v-toolbar__title
+{
+  margin: 0 auto!important;
 }
 </style>
