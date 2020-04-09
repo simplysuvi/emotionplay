@@ -10,7 +10,7 @@
             <v-alert :value="booted" dismissible type="success">Booted successfully!</v-alert>
             <v-alert :value="failed" dismissible type="error">Failed to load correctly.</v-alert>
             <v-alert :value="webcamOk" dismissible type="info">This may take few minutes</v-alert>
-            <v-alert :value="webcamOk" dismissible type="info">Webcam access allowed...</v-alert>
+            <v-alert :value="webcamOk" dismissible type="info">Webcam access allowed.</v-alert>
             <v-alert :value="webcamNotOk" dismissible type="error">Webcam access denied.</v-alert>
           </v-flex>
           <v-flex class="player-wrapper" sm12 md6>
@@ -31,7 +31,7 @@
       </v-container>
     </v-content>
     <v-footer app fixed>
-    <v-flex><div class="footer-text">MADE WITH BY ♥ SUVRAT JAIN</div></v-flex>
+    <v-flex><div class="footer-text">MADE WITH BY <strong style="color:red;">♥</strong> SUVRAT JAIN</div></v-flex>
     </v-footer>
   </v-app>
 </template>
