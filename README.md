@@ -1,8 +1,4 @@
-# Real-emoji-vue
-
-Demo [here](https://real-emoji.netlify.com/)
-
-This project showcase a real time emotion detection, where we try to detect the following features from the face:
+This project showcases real time emotion detection, where the following features are detected from the face:
 
 Appearance
 
@@ -74,25 +70,3 @@ yarn run build
 ```
 yarn run test
 ```
-
-### Lints and fixes files
-
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-
-```
-yarn run test:unit
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).

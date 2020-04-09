@@ -1,7 +1,7 @@
 <template>
   <v-app id="inspire" dark>
-    <v-toolbar app fixed clipped-left>
-      <v-toolbar-title>Real emoji</v-toolbar-title>
+    <v-toolbar` app fixed clipped-left>
+      <v-toolbar-title>Emotionplay</v-toolbar-title>
     </v-toolbar>
     <v-content>
       <v-container fluid fill-height>
@@ -31,11 +31,9 @@
       </v-container>
     </v-content>
     <v-footer app fixed>
-      <v-btn href="https://github.com/gimyboya/real-imoji" target="blank">
+    <div class="footer-text">MADE WITH BY ♥ SUVRAT JAIN</div>
+      <v-btn href="https://simplysuvi.github.io" target="blank">
         <v-icon v-text="'mdi-github-circle'"></v-icon>
-      </v-btn>
-      <v-btn href="https://twitter.com/gimyboya" target="blank">
-        <v-icon v-text="'mdi-twitter'"></v-icon>
       </v-btn>
     </v-footer>
   </v-app>
