@@ -1,7 +1,7 @@
 <template>
   <v-app id="inspire" dark>
     <v-toolbar app fixed clipped-left>
-      <v-toolbar-title>Emotionplay</v-toolbar-title>
+      <v-toolbar-title class="footer-text">What's your mood like?</v-toolbar-title>
     </v-toolbar>
     <v-content>
       <v-container fluid fill-height>
