@@ -32,9 +32,6 @@
     </v-content>
     <v-footer app fixed>
     <v-flex><div class="footer-text">MADE WITH BY ♥ SUVRAT JAIN</div></v-flex>
-      <v-btn href="https://simplysuvi.github.io" target="blank">
-        <v-icon v-text="'mdi-github-circle'"></v-icon>
-      </v-btn>
     </v-footer>
   </v-app>
 </template>
@@ -193,5 +190,9 @@ export default {
 footer {
   display: flex;
   justify-content: center;
+}
+.footer-text
+{
+  text-align: center;
 }
 </style>
