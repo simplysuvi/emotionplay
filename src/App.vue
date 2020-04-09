@@ -31,7 +31,7 @@
       </v-container>
     </v-content>
     <v-footer app fixed>
-    <div class="footer-text">MADE WITH BY ♥ SUVRAT JAIN</div>
+    <v-flex><div class="footer-text">MADE WITH BY ♥ SUVRAT JAIN</div></v-flex>
       <v-btn href="https://simplysuvi.github.io" target="blank">
         <v-icon v-text="'mdi-github-circle'"></v-icon>
       </v-btn>
