@@ -31,7 +31,7 @@
       </v-container>
     </v-content>
     <v-footer app fixed>
-    <v-flex><div class="footer-text">MADE WITH <strong style="color:#fb0606;">♥</strong> BY SUVRAT JAIN.</div></v-flex>
+    <v-flex><div class="footer-text">MADE WITH <strong style="color:#fb0606;font-size: 21px;">♥</strong> BY SUVRAT JAIN.</div></v-flex>
     </v-footer>
   </v-app>
 </template>
