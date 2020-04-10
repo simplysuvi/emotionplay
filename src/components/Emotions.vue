@@ -1,7 +1,7 @@
 <template>
   <v-card class="elevation-0">
     <v-card-title>
-      <h4>Appearance</h4>
+      <h4>Emotions</h4>
     </v-card-title>
     <v-divider></v-divider>
     <v-card-text>
