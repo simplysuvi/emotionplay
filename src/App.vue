@@ -31,7 +31,7 @@
       </v-container>
     </v-content>
     <v-footer app fixed>
-    <v-flex><div class="footer-text">MADE WITH BY <strong style="color:red;">♥</strong> SUVRAT JAIN</div></v-flex>
+    <v-flex><div class="footer-text">MADE WITH <strong style="color:#fb0606;">♥</strong> BY SUVRAT JAIN.</div></v-flex>
     </v-footer>
   </v-app>
 </template>
@@ -194,6 +194,7 @@ footer {
 .footer-text
 {
   text-align: center;
+  font-size: 16px;
 }
 .v-toolbar__title
 {
