@@ -188,5 +188,6 @@ export default {
 footer { display: flex; justify-content: center; }
 .footer-text { text-align: center; font-size: 16px; }
 .v-toolbar__title { margin: 0 auto!important; }
-.v-toolbar__content { height: 55px!important; }
+.v-toolbar__content { height: 50px!important; }
+.v-content { padding: 40px 0 30px!important; }
 </style>
