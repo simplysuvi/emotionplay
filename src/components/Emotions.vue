@@ -59,6 +59,6 @@ export default {
 
 <style>
 .flex.xs5 { margin: 0 3%!important; }
-.v-progress-linear__background { background-color: #adaa80!important; opacity: 0.5; }
-.v-progress-linear__bar__determinate { background-color: rgba(218, 217, 100, 0.71); }
+.v-progress-linear__background { background-color: #C2CAD0!important; opacity: 0.5!important; }
+.v-progress-linear__bar__determinate { background-color: #dada76!important; }
 </style>
