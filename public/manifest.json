@@ -3,7 +3,7 @@
   "short_name": "real-imoji-vue",
   "icons": [
     {
-      "src": "./img/icons/favicon.ico",
+      "src": "/img/icons/favicon.ico",
       "sizes": "16x16",
       "type": "image/ico"
     }
